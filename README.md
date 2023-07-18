@@ -1,2 +1,2 @@
 # poc-cicd-deployment-repo
-TEst
+TEST
